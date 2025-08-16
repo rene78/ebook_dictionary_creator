@@ -125,3 +125,4 @@ ebook_dictionary_creator/data/__pycache__/
 *.opf
 *.zip
 kindlegen
+*malay*
